@@ -1,0 +1,6 @@
+{
+  "name": "Supermercado Gestão Pro",
+  "description": "Sistema completo para supermercados com controle de estoque, vendas (PDV), dashboard de relatórios financeiros e conexão com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
